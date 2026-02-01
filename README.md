@@ -10,4 +10,5 @@ This is a simple Python program to check the strength of a password.
 3. The program will tell you if your password is strong or weak
 
 ## Author
-Muhammad Mustafa
+Istikhar Naz
+
