@@ -1,5 +1,5 @@
 # python-practice
-A simple Python program to check password strength.
+This Python program takes a password from the user and checks its strength using multiple conditions.
 
 # Password Checker
 This is a simple Python program to check the strength of a password.
